@@ -1,2 +1,4 @@
 # themparks_proyect
-Proyecto parques temáicos
+Proyecto parques temáticos
+
+

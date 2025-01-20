@@ -1,0 +1,133 @@
+Entertainment Company,id_park,Park,Country,Continent,Latitude,Longitude,Timezone
+Cedar Fair Entertainment Company,57,California's Great America,United States,North America,37.397799,-121.974717,America/Los_Angeles
+Cedar Fair Entertainment Company,58,Canada's Wonderland,Canada,North America,43.843,-79.539,America/Toronto
+Cedar Fair Entertainment Company,59,Carowinds,United States,North America,35.1045,-80.9394,America/New_York
+Cedar Fair Entertainment Company,50,Cedar Point,United States,North America,41.4822,-82.6835,America/New_York
+Cedar Fair Entertainment Company,69,Dorney Park,United States,North America,40.577942,-75.531528,America/New_York
+Cedar Fair Entertainment Company,62,Kings Dominion,United States,North America,37.84,-77.445,America/New_York
+Cedar Fair Entertainment Company,60,Kings Island,United States,North America,39.3447,-84.2686,America/New_York
+Cedar Fair Entertainment Company,61,Knott's Berry Farm,United States,North America,33.8442,-117.9986,America/Los_Angeles
+Cedar Fair Entertainment Company,70,Michigan's Adventure,United States,North America,43.3474,-86.2789,America/New_York
+Cedar Fair Entertainment Company,68,Valleyfair,United States,North America,44.798742,-93.453369,America/Chicago
+Cedar Fair Entertainment Company,63,Worlds of Fun,United States,North America,39.177333,-94.489028,America/Chicago
+Chimelong Group,331,Chimelong Birds Park,China,Asia,23.025,113.277,Asia/Shanghai
+Chimelong Group,123,Chimelong Ocean Kingdom,China,Asia,22.101,113.534,Asia/Shanghai
+Chimelong Group,130,Chimelong Paradise,China,Asia,23.005,113.327,Asia/Shanghai
+Chimelong Group,330,Chimelong Safari Park,China,Asia,23.009,113.309,Asia/Shanghai
+Chimelong Group,332,Chimelong Spaceship,China,Asia,22.097,113.535,Asia/Shanghai
+Chimelong Group,139,Chimelong Water Park,China,Asia,23.004,113.318,Asia/Shanghai
+Compagnie des Alpes,276,Bellewaerde,Belgium,Europe,50.846996,2.947948,Europe/Brussels
+Compagnie des Alpes,322,Familypark,Austria,Europe,47.801597,16.646089,Europe/Vienna
+Compagnie des Alpes,291,Futuroscope,France,Europe,46.669167,0.368889,Europe/Paris
+Compagnie des Alpes,9,Parc Astérix,France,Europe,49.1341839,2.5712301,Europe/Paris
+Compagnie des Alpes,14,Walibi Belgium,Belgium,Europe,50.7018603,4.5940362,Europe/Brussels
+Compagnie des Alpes,53,Walibi Holland,Netherlands,Europe,52.44,5.7625,Europe/Amsterdam
+Compagnie des Alpes,301,Walibi Rhône-Alpes,France,Europe,45.621389,5.570278,Europe/Paris
+Herschend Family Entertainment,55,Dollywood,United States,North America,35.805702,-83.528838,America/New_York
+Herschend Family Entertainment,10,Silver Dollar City,United States,North America,36.6704749,-93.3370854,America/Chicago
+Looping Group,323,Avonturenpark Hellendoorn,Netherlands,Europe,52.389444,6.435833,Europe/Amsterdam
+Mack Rides,51,Europa Park,Germany,Europe,48.268333,7.720833,Europe/Berlin
+Mack Rides,309,Rulantica,Germany,Europe,48.26082436,7.7400571,Europe/Berlin
+Merlin Entertainments,1,Alton Towers,England,Europe,52.9874651,-1.8864769,Europe/London
+Merlin Entertainments,3,Chessington World of Adventures,England,Europe,51.3478981,-0.3173283,Europe/London
+Merlin Entertainments,12,Gardaland,Italy,Europe,45.4550142,10.7137527,Europe/Rome
+Merlin Entertainments,25,Heide Park,Germany,Europe,53.0236683,9.8781907,Europe/Berlin
+Merlin Entertainments,52,Legoland Billund,Denmark,Europe,55.735556,9.126111,Europe/Copenhagen
+Merlin Entertainments,279,Legoland California,United States,North America,33.126667,-117.311111,America/Los_Angeles
+Merlin Entertainments,278,Legoland Deutschland,Germany,Europe,48.424444,10.299722,Europe/Berlin
+Merlin Entertainments,280,Legoland Florida,United States,North America,27.989172,-81.689936,America/New_York
+Merlin Entertainments,285,Legoland Japan,Japan,Asia,35.050556,136.843333,Asia/Tokyo
+Merlin Entertainments,315,Legoland Korea,South Korea,Asia,37.88380399,127.6974658,Asia/Seoul
+Merlin Entertainments,299,Legoland New York,United States,North America,41.37855043,-74.31297395,America/New_York
+Merlin Entertainments,27,Legoland Windsor,England,Europe,51.4634423,-0.649915,Europe/London
+Merlin Entertainments,316,Peppa Pig Theme Park Florida,United States,North America,27.98688038,-81.6883981,America/New_York
+Merlin Entertainments,2,Thorpe Park,England,Europe,51.4039456,-0.5143332,Europe/London
+Other,319,Beto Carrero World,Brazil,South America,-26.802481,-48.614367,America/Sao_Paulo
+Other,273,Blackpool Pleasure Beach,England,Europe,53.790278,-3.055556,Europe/London
+Other,318,Cinecittà World,Italy,Europe,41.709032,12.44673,Europe/Rome
+Other,290,Djurs Sommerland,Denmark,Europe,56.425933,10.550564,Europe/Copenhagen
+Other,160,Efteling,Netherlands,Europe,51.650278,5.048056,Europe/Berlin
+Other,317,Energylandia,Poland,Europe,50.000115,19.409078,Europe/Warsaw
+Other,18,Fårup Sommerland,Denmark,Europe,57.2713353,9.6505668,Europe/Berlin
+Other,166,Grona Lund,Sweden,Europe,59.323333,18.096667,Europe/Berlin
+Other,286,Hansa Park,Germany,Europe,54.0769,10.78,Europe/Berlin
+Other,15,Hersheypark,United States,North America,40.2887809,-76.6547469,America/New_York
+Other,314,Knoebels,United States,North America,40.879,-76.505,America/New_York
+Other,303,Le Pal,France,Europe,46.507222,3.630556,Europe/Paris
+Other,327,Le Parc du Petit Prince,France,Europe,47.860539,7.297752,Europe/Paris
+Other,11,Liseberg,Sweden,Europe,57.6952191,11.9924641,Europe/Stockholm
+Other,333,Lotte World,South Korea,Asia,37.51136,127.099768,Asia/Seoul
+Other,320,PanoraMagique,France,Europe,48.86901442,2.78646006,Europe/Paris
+Other,49,Paultons Park,England,Europe,50.948542,-1.552557,Europe/London
+Other,56,Phantasialand,Germany,Europe,50.8,6.879444,Europe/Berlin
+Other,305,Toverland,Netherlands,Europe,51.396,5.986,Europe/Amsterdam
+Other,304,Vulcania,France,Europe,45.813449,2.940501,Europe/Paris
+Parques Reunidos,324,Adventureland Resort,United States,North America,41.654447,-93.499886,America/Chicago
+Parques Reunidos,311,Bobbejaanland,Belgium,Europe,51.201111,4.905,Europe/Brussels
+Parques Reunidos,312,Kennywood,United States,North America,40.38682123,-79.86212422,America/New_York
+Parques Reunidos,313,Lake Compounce,United States,North America,41.64330388,-72.92274692,America/New_York
+Parques Reunidos,310,Movie Park Germany,Germany,Europe,51.6206067,6.97212649,Europe/Berlin
+Parques Reunidos,321,Parque de Atracciones Madrid,Spain,Europe,40.411289,-3.751789,Europe/Madrid
+Parques Reunidos,298,Parque Warner Madrid,Spain,Europe,40.23,-3.5937,Europe/Madrid
+Plopsa,302,Holiday Park,Germany,Europe,49.319722,8.294722,Europe/Berlin
+Plopsa,54,Plopsaland De Panne,Belgium,Europe,51.079722,2.596944,Europe/Brussels
+PortAventura World,277,Ferrari Land,Spain,Europe,41.0878286,1.1572475,Europe/Madrid
+PortAventura World,19,PortAventura Park,Spain,Europe,41.0878286,1.1572475,Europe/Madrid
+Samsung C&T Corporation,329,Caribbean Bay,South Korea,Asia,37.296021,127.203194,Asia/Seoul
+Samsung C&T Corporation,125,Everland,South Korea,Asia,37.296021,127.203194,Asia/Seoul
+SeaWorld Parks & Entertainment,97,Adventure Island,United States,North America,28.04174441,-82.4131981,America/New_York
+SeaWorld Parks & Entertainment,94,Aquatica Orlando,United States,North America,28.41543304,-81.45566791,America/New_York
+SeaWorld Parks & Entertainment,306,Aquatica San Antonio,United States,North America,29.45930638,-98.69817399,America/Denver
+SeaWorld Parks & Entertainment,24,Busch Gardens Tampa,United States,North America,28.0363515,-82.4224574,America/New_York
+SeaWorld Parks & Entertainment,23,Busch Gardens Williamsburg,United States,North America,37.235165,-76.6465769,America/New_York
+SeaWorld Parks & Entertainment,308,Discovery Cove Orlando,United States,North America,28.40488484,-81.46249679,America/New_York
+SeaWorld Parks & Entertainment,21,Seaworld Orlando,United States,North America,28.4114555,-81.4617047,America/New_York
+SeaWorld Parks & Entertainment,22,Seaworld San Antonio,United States,North America,29.45836,-98.700551,America/Denver
+SeaWorld Parks & Entertainment,20,Seaworld San Diego,United States,North America,32.7647903,-117.2266083,America/Los_Angeles
+SeaWorld Parks & Entertainment,29,Sesame Place,United States,North America,29.6351835,-95.3269418,America/New_York
+SeaWorld Parks & Entertainment,96,Water Country USA,United States,North America,37.26258412,-76.63706537,America/New_York
+Six Flags Entertainment Corporation,282,Frontier City,United States,North America,35.584845,-97.44099,America/Chicago
+Six Flags Entertainment Corporation,48,"La Ronde, Montreal",Canada,North America,45.5225,-73.535,America/Toronto
+Six Flags Entertainment Corporation,42,Six Flags America,United States,North America,38.9062,-76.77257,America/New_York
+Six Flags Entertainment Corporation,281,Six Flags Darien Lake,United States,North America,42.92851,-78.38488,America/New_York
+Six Flags Entertainment Corporation,33,Six Flags Discovery Kingdom,United States,North America,38.1378,-122.23,America/Los_Angeles
+Six Flags Entertainment Corporation,39,Six Flags Fiesta Texas,United States,North America,29.5995,-98.6094,America/Chicago
+Six Flags Entertainment Corporation,37,Six Flags Great Adventure,United States,North America,40.137697,-74.440458,America/New_York
+Six Flags Entertainment Corporation,38,Six Flags Great America,United States,North America,42.369997,-87.935794,America/Chicago
+Six Flags Entertainment Corporation,45,Six Flags Great Escape,United States,North America,43.350991,-73.690112,America/New_York
+Six Flags Entertainment Corporation,44,Six Flags Hurricane Harbor New Jersey,United States,North America,40.137697,-74.440458,America/New_York
+Six Flags Entertainment Corporation,40,"Six Flags Hurricane Harbor, Arlington",United States,North America,32.7557,-97.070222,America/Chicago
+Six Flags Entertainment Corporation,293,"Six Flags Hurricane Harbor, Concord",United States,North America,37.974,-122.0512,America/Los_Angeles
+Six Flags Entertainment Corporation,41,"Six Flags Hurricane Harbor, Los Angeles",United States,North America,34.424918,-118.594425,America/Los_Angeles
+Six Flags Entertainment Corporation,292,"Six Flags Hurricane Harbor, Oaxtepec",United States,North America,18.8967,-98.9754,America/Mexico_City
+Six Flags Entertainment Corporation,294,"Six Flags Hurricane Harbor, Oklahoma City",United States,North America,33.959128,-84.519548,America/Chicago
+Six Flags Entertainment Corporation,295,"Six Flags Hurricane Harbor, Phoenix",United States,North America,33.6962,-112.1503,America/Phoenix
+Six Flags Entertainment Corporation,297,"Six Flags Hurricane Harbor, Rockford",United States,North America,42.370244,-87.935916,America/Chicago
+Six Flags Entertainment Corporation,296,"Six Flags Hurricane Harbor, SplashTown",United States,North America,30.5088,-95.4919,America/Chicago
+Six Flags Entertainment Corporation,32,Six Flags Magic Mountain,United States,North America,34.4238,-118.5971,America/Los_Angeles
+Six Flags Entertainment Corporation,47,Six Flags Mexico,Mexico,North America,19.295,-99.209,America/Toronto
+Six Flags Entertainment Corporation,43,Six Flags New England,United States,North America,42.0377,-72.6157,America/New_York
+Six Flags Entertainment Corporation,35,Six Flags Over Georgia,United States,North America,33.76787,-84.55065,America/New_York
+Six Flags Entertainment Corporation,34,Six Flags Over Texas,United States,North America,32.7557,-97.070222,America/Chicago
+Six Flags Entertainment Corporation,36,Six Flags St. Louis,United States,North America,38.512806,-90.67505,America/Chicago
+Six Flags Entertainment Corporation,46,"Six Flags White Water, Atlanta",United States,North America,33.958056,-84.521389,America/New_York
+UK National Museums,326,British Museum,England,Europe,51.51920634,-0.12726773,Europe/London
+UK National Museums,325,Natural History Museum,England,Europe,51.496111,-0.176389,Europe/London
+Universal Parks & Resorts,64,Islands Of Adventure At Universal Orlando,United States,North America,28.472243,-81.4678556,America/New_York
+Universal Parks & Resorts,65,Universal Studios At Universal Orlando,United States,North America,28.4749822,-81.466497,America/New_York
+Universal Parks & Resorts,328,Universal Studios Beijing,China,Asia,39.853159,116.673946,Asia/Shanghai
+Universal Parks & Resorts,66,Universal Studios Hollywood,United States,North America,34.137261,-118.355516,America/Los_Angeles
+Universal Parks & Resorts,284,Universal Studios Japan,Japan,Asia,34.665482,135.43236,Asia/Tokyo
+Universal Parks & Resorts,67,Universal Volcano Bay,United States,North America,28.4623,-81.4707,America/New_York
+Walt Disney Attractions,8,Animal Kingdom,United States,North America,28.3530666,-81.5911943,America/New_York
+Walt Disney Attractions,17,Disney California Adventure,United States,North America,33.8058755,-117.9194899,America/Los_Angeles
+Walt Disney Attractions,7,Disney Hollywood Studios,United States,North America,28.3575294,-81.5582714,America/New_York
+Walt Disney Attractions,6,Disney Magic Kingdom,United States,North America,28.417663,-81.581212,America/New_York
+Walt Disney Attractions,16,Disneyland,United States,North America,33.8104856,-117.9190001,America/Los_Angeles
+Walt Disney Attractions,31,Disneyland Hong Kong,Hong Kong,Asia,22.3133,114.0433,Asia/Hong_Kong
+Walt Disney Attractions,4,Disneyland Park Paris,France,Europe,48.8722344,2.7758079,Europe/Paris
+Walt Disney Attractions,5,Epcot,United States,North America,28.374694,-81.549404,America/New_York
+Walt Disney Attractions,30,Shanghai Disney Resort,China,Asia,31.144,121.657,Asia/Shanghai
+Walt Disney Attractions,274,Tokyo Disneyland,Japan,Asia,35.634848,139.879295,Asia/Tokyo
+Walt Disney Attractions,275,Tokyo DisneySea,Japan,Asia,35.627055,139.889097,Asia/Tokyo
+Walt Disney Attractions,28,Walt Disney Studios Paris,France,Europe,48.8673,2.779008,Europe/Paris
