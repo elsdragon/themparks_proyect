@@ -1,0 +1,14 @@
+{
+    "https://queue-times.com/parks/8/queue_times.json": "database_animalkingdom.json",
+    "https://queue-times.com/parks/17/queue_times.json": "database_disneycaliforniaadventure.json",
+    "https://queue-times.com/parks/7/queue_times.json": "database_disneyhollywoodstudios.json",
+    "https://queue-times.com/parks/6/queue_times.json": "database_disneymagickingdom.json",
+    "https://queue-times.com/parks/16/queue_times.json": "database_disneyland.json",
+    "https://queue-times.com/parks/31/queue_times.json": "database_disneylandhongkong.json",
+    "https://queue-times.com/parks/4/queue_times.json": "database_disneylandparkparis.json",
+    "https://queue-times.com/parks/5/queue_times.json": "database_epcot.json",
+    "https://queue-times.com/parks/30/queue_times.json": "database_shanghaidisneyresort.json",
+    "https://queue-times.com/parks/274/queue_times.json": "database_tokyodisneyland.json",
+    "https://queue-times.com/parks/275/queue_times.json": "database_tokyodisneysea.json",
+    "https://queue-times.com/parks/28/queue_times.json": "database_waltdisneystudiosparis.json"
+}
