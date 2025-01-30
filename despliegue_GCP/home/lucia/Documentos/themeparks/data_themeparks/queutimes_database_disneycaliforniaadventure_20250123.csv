@@ -1,0 +1,840 @@
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,55,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,35,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,30,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,15,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,75,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,5,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,40,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,35,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,True,5,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,25,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,5,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,35,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,15,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,25,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,30,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,35,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-22T23:57:04.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,75,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,45,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,20,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,60,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,5,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,85,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,50,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,True,15,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,25,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,5,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,35,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,15,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,40,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,30,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,40,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T00:56:54.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,75,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,30,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,15,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,75,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,5,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,35,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,30,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,True,5,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,True,40,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,True,15,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,5,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,5,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,35,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,15,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,30,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,30,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,50,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T01:56:40.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,70,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,35,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,35,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,20,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,50,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,5,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,30,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,40,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,True,5,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,15,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,5,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,30,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,15,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,45,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,30,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,25,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T02:56:43.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,80,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,30,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,10,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,55,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,30,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,20,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,True,5,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,5,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,5,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,35,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,15,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,40,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T03:57:17.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,65,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,5,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,20,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,5,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,40,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,25,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,5,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,True,35,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,5,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,5,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,25,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,15,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,15,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T04:56:50.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T05:56:45.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T06:56:37.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T07:56:36.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T08:56:36.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T09:56:38.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T10:56:41.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T11:56:44.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T12:56:48.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T13:56:36.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T14:56:43.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,False,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T15:56:50.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,50,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,15,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,15,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,50,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,10,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,False,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,False,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,5,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T16:57:27.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,60,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,25,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,20,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,5,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,65,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,False,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,25,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,5,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,True,15,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,5,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,10,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,5,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,5,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,5,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,25,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T17:56:37.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,50,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,45,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,20,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,15,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,50,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,5,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,5,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,True,25,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,5,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,20,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,5,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,30,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,20,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,30,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T18:56:33.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,35,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,20,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,False,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,15,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,50,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,30,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,45,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,True,35,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,5,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,10,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,5,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,20,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,20,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,35,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T19:56:34.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,50,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,35,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,20,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,10,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,50,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,30,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,25,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,True,40,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,10,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,20,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,5,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,40,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,20,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,40,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T20:57:12.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,70,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,25,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,20,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,5,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,60,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,60,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,40,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,True,45,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,10,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,20,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,5,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,40,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,20,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,40,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T21:57:04.000Z,disneycaliforniaadventure
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+890,Avengers Campus,329,Guardians of the Galaxy - Mission: BREAKOUT!,True,60,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+890,Avengers Campus,11112,Guardians of the Galaxy - Monsters After Dark,False,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+890,Avengers Campus,8843,WEB SLINGERS: A Spider-Man Adventure,True,40,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+890,Avengers Campus,10907,WEB SLINGERS: A Spider-Man Adventure Single Rider,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+118,Buena Vista Street,873,Red Car Trolley,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+120,Cars Land,13961,Luigi's Rollickin' Roadsters,True,25,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+120,Cars Land,315,Mater's Junkyard Jamboree,True,5,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+120,Cars Land,295,Radiator Springs Racers,True,60,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+120,Cars Land,10904,Radiator Springs Racers Single Rider,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+121,Grizzly Peak,302,Grizzly River Run,False,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+121,Grizzly Peak,293,Redwood Creek Challenge Trail,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+121,Grizzly Peak,312,Soarin' Around the World,True,45,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+122,Hollywood Land,321,Animation Academy,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+122,Hollywood Land,6440,Mickey's PhilharMagic,True,10,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+122,Hollywood Land,291,"Monsters, Inc. Mike & Sulley to the Rescue!",True,35,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+122,Hollywood Land,868,Sorcerer's Workshop,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+122,Hollywood Land,294,Turtle Talk with Crush,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,298,Golden Zephyr,False,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,319,Goofy's Sky School,True,30,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,301,Silly Symphony Swings,False,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,10905,Silly Symphony Swings Single Rider,False,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,316,The Little Mermaid - Ariel's Undersea Adventure,True,10,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,7298,World of Color - Season of Light,False,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+359,Paradise Gardens Park,11528,World of Color – ONE,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,13960,Games of Pixar Pier,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,322,Incredicoaster,True,15,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,10906,Incredicoaster Single Rider,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,6643,Inside Out Emotional Whirlwind,False,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,310,Jessie's Critter Carousel,True,5,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,300,Jumpin' Jellyfish,True,5,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,311,Pixar Pal-A-Round - Swinging,True,20,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,5557,Pixar Pal-A-Round – Non-Swinging,True,20,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+124,Pixar Pier,313,Toy Story Midway Mania!,True,45,2025-01-23T22:56:57.000Z,disneycaliforniaadventure
+960,San Fransokyo Square,13959,The Bakery Tour,True,0,2025-01-23T22:56:57.000Z,disneycaliforniaadventure

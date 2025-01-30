@@ -1,0 +1,864 @@
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,40,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,5,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,5,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,60,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,5,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,10,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,True,5,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,10,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,5,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,50,2025-01-25T23:55:36.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,10,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,75,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,75,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,25,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,20,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,40,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,True,20,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,20,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,10,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,60,2025-01-26T00:55:30.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,5,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,40,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,75,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,5,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,15,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,40,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,105,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,40,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,30,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,5,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,50,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,15,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,5,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,40,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,50,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,True,60,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,30,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,40,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,True,10,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,45,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,60,2025-01-26T01:55:58.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,20,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,60,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,105,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,30,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,30,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,45,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,135,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,40,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,40,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,10,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,60,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,30,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,10,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,75,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,90,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,True,75,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,40,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,40,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,True,30,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,60,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,60,2025-01-26T02:55:56.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,30,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,40,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,105,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,10,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,30,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,50,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,90,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,45,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,40,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,10,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,40,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,15,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,20,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,40,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,True,15,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,60,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,30,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,40,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,True,30,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,40,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,60,2025-01-26T03:55:35.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,10,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,50,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,105,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,10,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,30,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,60,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,120,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,45,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,35,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,5,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,40,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,15,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,30,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,60,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,True,15,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,75,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,40,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,60,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,True,30,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,45,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,70,2025-01-26T04:56:10.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,10,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,60,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,120,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,30,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,30,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,50,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,120,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,40,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,40,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,5,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,40,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,15,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,20,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,50,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,True,15,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,75,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,50,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,50,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,True,10,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,30,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,80,2025-01-26T05:55:37.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,10,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,30,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,90,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,10,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,30,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,45,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,105,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,50,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,30,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,5,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,30,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,15,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,20,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,60,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,True,15,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,60,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,40,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,60,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,True,10,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,40,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,80,2025-01-26T06:55:41.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,30,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,40,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,90,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,5,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,20,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,50,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,105,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,40,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,15,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,5,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,20,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,10,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,10,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,50,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,True,15,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,30,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,30,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,40,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,25,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,70,2025-01-26T07:55:39.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,10,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,30,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,105,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,15,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,30,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,60,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,105,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,55,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,30,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,10,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,40,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,15,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,20,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,50,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,True,15,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,75,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,40,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,40,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,20,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,80,2025-01-26T08:56:13.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,10,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,30,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,105,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,5,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,20,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,25,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,90,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,35,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,15,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,10,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,30,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,20,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,10,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,40,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,True,15,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,50,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,30,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,30,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,15,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,60,2025-01-26T09:55:58.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,10,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,10,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,75,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,5,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,True,5,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,10,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,35,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,75,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,35,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,5,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,5,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,True,30,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,30,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,5,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,40,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,True,15,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,60,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,30,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,40,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,10,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,60,2025-01-26T10:55:58.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,True,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,True,10,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,True,10,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,75,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,True,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,5,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,20,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,40,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,75,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,45,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,20,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,True,10,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,30,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,True,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,5,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,40,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,40,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",True,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,True,60,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,30,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,50,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,5,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,40,2025-01-26T11:55:46.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,True,50,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,True,20,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,True,10,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,True,15,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,True,50,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,True,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,True,25,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,True,30,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,True,30,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,True,5,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,True,30,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,True,30,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,True,10,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,True,20,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,True,20,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,True,5,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,True,5,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,True,5,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,True,0,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,True,20,2025-01-26T12:55:42.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T13:55:35.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T14:57:25.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T15:55:45.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T16:55:46.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T17:55:38.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T18:56:07.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T19:55:36.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T20:55:45.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T21:55:44.000Z,shanghaidisneyresort
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+779,Adventure Isle,3079,Camp Discovery,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3893,Challenge Trails at Camp Discovery,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,2986,Roaring Rapids,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3883,Selfie Spot with Disney Jungle Characters ,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3002,Soaring Over the Horizon,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+779,Adventure Isle,3901,Vista Trail at Camp Discovery,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,3080,“Once Upon a Time” Adventure,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2987,Alice in Wonderland Maze,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2988,Hunny Pot Spin,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2989,Peter Pan’s Flight,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,3881,Selfie Spot with Princesses ,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2990,Seven Dwarfs Mine Train,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,13818,Seven Dwarfs Mine Train Single Rider,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2991,The Many Adventures of Winnie the Pooh,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+777,Fantasyland,2992,Voyage to the Crystal Grotto,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3896,Become Iron Man,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2993,Dumbo the Flying Elephant,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,2994,Fantasia Carousel,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3082,Marvel Universe,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3882,Selfie Spot with Mickey ,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+780,Gardens of Imagination,3895,Selfie Spot with Spider Man,True,5,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,2999,Buzz Lightyear Planet Rescue,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,3000,Jet Packs,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,3001,Stitch Encounter,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,2985,TRON Lightcycle Power Run – Presented by Chevrolet,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+778,Tomorrowland,4076,"TRON Realm, Chevrolet Digital Challenge",False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5633,Rex’s Racer,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5634,Slinky Dog Spin,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+783,Toy Story Land,5635,Woody’s Roundup,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2995,Explorer Canoes,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2996,Pirates of the Caribbean Battle for the Sunken Treasure,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2997,Shipwreck Shore,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+781,Treasure Cove,2998,Siren's Revenge,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+920,Zootopia,13819,Zootopia Hot Pursuit Single Rider,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort
+920,Zootopia,12392,Zootopia: Hot Pursuit,False,0,2025-01-26T22:55:46.000Z,shanghaidisneyresort

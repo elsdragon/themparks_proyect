@@ -75,7 +75,7 @@ with DAG(
     'etl_gcs_append',
     default_args={'owner': 'airflow', 'retries': 1},
     description='ETL con Cloud Storage y Airflow (con append)',
-    schedule_interval='@daily',
+    schedule_interval='0 0 * * 1',
     start_date=datetime(2025, 1, 1),
     catchup=False,
 ) as dag:

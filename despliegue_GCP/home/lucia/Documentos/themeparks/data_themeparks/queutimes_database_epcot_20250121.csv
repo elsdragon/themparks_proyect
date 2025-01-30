@@ -1,0 +1,363 @@
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T13:55:21.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T13:55:21.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T13:55:21.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T13:55:21.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,False,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,False,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,False,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,159,Spaceship Earth,False,0,2025-01-21T13:55:21.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T13:55:21.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,False,0,2025-01-21T13:55:21.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T13:55:21.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,7323,Awesome Planet,False,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,156,Living with the Land,True,5,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,10,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,5,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,False,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,False,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,40,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,False,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,55,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T13:55:21.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T13:55:21.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T13:55:21.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T13:55:21.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T13:55:21.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,False,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,False,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,False,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T13:55:21.000Z,epcot
+897,World Celebration,159,Spaceship Earth,False,0,2025-01-21T13:55:21.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T13:55:21.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,False,0,2025-01-21T13:55:21.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T13:55:21.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,7323,Awesome Planet,False,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,156,Living with the Land,True,5,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,10,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,5,2025-01-21T13:55:21.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,False,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,False,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,40,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,False,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,55,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T13:55:21.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T13:55:21.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T14:55:19.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T14:55:19.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T14:55:19.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T14:55:19.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T14:55:19.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T14:55:19.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,True,5,2025-01-21T14:55:19.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,25,2025-01-21T14:55:19.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T14:55:19.000Z,epcot
+897,World Celebration,159,Spaceship Earth,False,0,2025-01-21T14:55:19.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T14:55:19.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T14:55:19.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T14:55:19.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T14:55:19.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T14:55:19.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T14:55:19.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T14:55:19.000Z,epcot
+898,World Nature,156,Living with the Land,True,5,2025-01-21T14:55:19.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T14:55:19.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,20,2025-01-21T14:55:19.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,5,2025-01-21T14:55:19.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,30,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,45,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,40,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T14:55:19.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T14:55:19.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T15:55:22.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T15:55:22.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T15:55:22.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T15:55:22.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T15:55:22.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T15:55:22.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,True,15,2025-01-21T15:55:22.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,35,2025-01-21T15:55:22.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T15:55:22.000Z,epcot
+897,World Celebration,159,Spaceship Earth,False,0,2025-01-21T15:55:22.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T15:55:22.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T15:55:22.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,30,2025-01-21T15:55:22.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T15:55:22.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T15:55:22.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T15:55:22.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T15:55:22.000Z,epcot
+898,World Nature,156,Living with the Land,True,20,2025-01-21T15:55:22.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T15:55:22.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,90,2025-01-21T15:55:22.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,25,2025-01-21T15:55:22.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,55,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,45,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,35,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T15:55:22.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T15:55:22.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T16:56:00.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T16:56:00.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T16:56:00.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T16:56:00.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T16:56:00.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T16:56:00.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,True,15,2025-01-21T16:56:00.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,30,2025-01-21T16:56:00.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T16:56:00.000Z,epcot
+897,World Celebration,159,Spaceship Earth,False,0,2025-01-21T16:56:00.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T16:56:00.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T16:56:00.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,30,2025-01-21T16:56:00.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T16:56:00.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T16:56:00.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T16:56:00.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T16:56:00.000Z,epcot
+898,World Nature,156,Living with the Land,True,10,2025-01-21T16:56:00.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T16:56:00.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,60,2025-01-21T16:56:00.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,50,2025-01-21T16:56:00.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,50,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,25,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,55,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T16:56:00.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T16:56:00.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T17:55:22.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T17:55:22.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T17:55:22.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T17:55:22.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T17:55:22.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T17:55:22.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,True,10,2025-01-21T17:55:22.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,35,2025-01-21T17:55:22.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T17:55:22.000Z,epcot
+897,World Celebration,159,Spaceship Earth,False,0,2025-01-21T17:55:22.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T17:55:22.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T17:55:22.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T17:55:22.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T17:55:22.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T17:55:22.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T17:55:22.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T17:55:22.000Z,epcot
+898,World Nature,156,Living with the Land,True,10,2025-01-21T17:55:22.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T17:55:22.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,50,2025-01-21T17:55:22.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,30,2025-01-21T17:55:22.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,50,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,40,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,55,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T17:55:22.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T17:55:22.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T18:55:19.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T18:55:19.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T18:55:19.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T18:55:19.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T18:55:19.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T18:55:19.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,False,0,2025-01-21T18:55:19.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,30,2025-01-21T18:55:19.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T18:55:19.000Z,epcot
+897,World Celebration,159,Spaceship Earth,False,0,2025-01-21T18:55:19.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T18:55:19.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T18:55:19.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T18:55:19.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T18:55:19.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T18:55:19.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T18:55:19.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T18:55:19.000Z,epcot
+898,World Nature,156,Living with the Land,True,5,2025-01-21T18:55:19.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T18:55:19.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,65,2025-01-21T18:55:19.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,15,2025-01-21T18:55:19.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,60,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,30,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,50,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T18:55:19.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T18:55:19.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T19:55:17.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T19:55:17.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T19:55:17.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T19:55:17.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T19:55:17.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T19:55:17.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,True,15,2025-01-21T19:55:17.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,25,2025-01-21T19:55:17.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T19:55:17.000Z,epcot
+897,World Celebration,159,Spaceship Earth,True,5,2025-01-21T19:55:17.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T19:55:17.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T19:55:17.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T19:55:17.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T19:55:17.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T19:55:17.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T19:55:17.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T19:55:17.000Z,epcot
+898,World Nature,156,Living with the Land,True,10,2025-01-21T19:55:17.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T19:55:17.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,40,2025-01-21T19:55:17.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,30,2025-01-21T19:55:17.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,55,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,20,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,45,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T19:55:17.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T19:55:17.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T20:57:01.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T20:57:01.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T20:57:01.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T20:57:01.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T20:57:01.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T20:57:01.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,True,5,2025-01-21T20:57:01.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,20,2025-01-21T20:57:01.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T20:57:01.000Z,epcot
+897,World Celebration,159,Spaceship Earth,True,40,2025-01-21T20:57:01.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T20:57:01.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T20:57:01.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T20:57:01.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T20:57:01.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T20:57:01.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T20:57:01.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T20:57:01.000Z,epcot
+898,World Nature,156,Living with the Land,True,5,2025-01-21T20:57:01.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T20:57:01.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,35,2025-01-21T20:57:01.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,5,2025-01-21T20:57:01.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,45,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,45,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,False,0,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,False,0,2025-01-21T20:57:01.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T20:57:01.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T21:55:26.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T21:55:26.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T21:55:26.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T21:55:26.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T21:55:26.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T21:55:26.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,True,5,2025-01-21T21:55:26.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,15,2025-01-21T21:55:26.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T21:55:26.000Z,epcot
+897,World Celebration,159,Spaceship Earth,True,35,2025-01-21T21:55:26.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T21:55:26.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T21:55:26.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T21:55:26.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T21:55:26.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T21:55:26.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T21:55:26.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T21:55:26.000Z,epcot
+898,World Nature,156,Living with the Land,True,5,2025-01-21T21:55:26.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T21:55:26.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,25,2025-01-21T21:55:26.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,5,2025-01-21T21:55:26.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,50,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,35,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,55,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T21:55:26.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T21:55:26.000Z,epcot
+land_id,land_name,ride_id,ride_name,is_open,wait_time,last_update,park_name
+954,American Adventure Pavilion,13773,American Heritage Gallery,True,0,2025-01-21T22:55:24.000Z,epcot
+954,American Adventure Pavilion,13778,Kidcot Fun Stops,True,0,2025-01-21T22:55:24.000Z,epcot
+957,France Pavilion,13779,Palais du Cinéma,True,0,2025-01-21T22:55:24.000Z,epcot
+956,Imagination Pavilion,13777,"ImageWorks - The ""What If"" Labs",True,0,2025-01-21T22:55:24.000Z,epcot
+955,Japan Pavilion,13781,Bijutsu-kan Gallery,True,0,2025-01-21T22:55:24.000Z,epcot
+897,World Celebration,2495,Disney and Pixar Short Film Festival,True,0,2025-01-21T22:55:24.000Z,epcot
+897,World Celebration,155,Journey Into Imagination With Figment,True,5,2025-01-21T22:55:24.000Z,epcot
+897,World Celebration,13627,Meet Beloved Disney Pals at Mickey & Friends,True,15,2025-01-21T22:55:24.000Z,epcot
+897,World Celebration,13775,Project Tomorrow: Inventing the Wonders of the Future,True,0,2025-01-21T22:55:24.000Z,epcot
+897,World Celebration,159,Spaceship Earth,True,25,2025-01-21T22:55:24.000Z,epcot
+896,World Discovery,13774,Advanced Training Lab,True,0,2025-01-21T22:55:24.000Z,epcot
+896,World Discovery,10916,Guardians of the Galaxy: Cosmic Rewind,True,0,2025-01-21T22:55:24.000Z,epcot
+896,World Discovery,158,Mission: SPACE,True,15,2025-01-21T22:55:24.000Z,epcot
+896,World Discovery,160,Test Track,False,0,2025-01-21T22:55:24.000Z,epcot
+898,World Nature,7323,Awesome Planet,True,0,2025-01-21T22:55:24.000Z,epcot
+898,World Nature,13770,Bruce's Shark World,True,0,2025-01-21T22:55:24.000Z,epcot
+898,World Nature,12387,"Journey of Water, Inspired by Moana",True,0,2025-01-21T22:55:24.000Z,epcot
+898,World Nature,156,Living with the Land,True,5,2025-01-21T22:55:24.000Z,epcot
+898,World Nature,13782,SeaBase Aquarium,True,0,2025-01-21T22:55:24.000Z,epcot
+898,World Nature,151,Soarin' Around the World,True,25,2025-01-21T22:55:24.000Z,epcot
+898,World Nature,153,The Seas with Nemo & Friends,True,5,2025-01-21T22:55:24.000Z,epcot
+898,World Nature,152,Turtle Talk With Crush,True,15,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,829,Canada Far and Wide in Circle-Vision 360,True,0,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,2679,Frozen Ever After,True,50,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,13772,Gallery of Arts and History,True,0,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,466,Gran Fiesta Tour Starring The Three Caballeros,False,0,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,13767,House of the Whispering Willows,True,0,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,6701,Meet Anna and Elsa at Royal Sommerhus,True,35,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,13780,Mexico Folk Art Gallery,True,0,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,10914,Remy's Ratatouille Adventure,True,55,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,10915,Remy's Ratatouille Adventure Single Rider,True,0,2025-01-21T22:55:24.000Z,epcot
+64,World Showcase,13776,Stave Church Gallery,True,0,2025-01-21T22:55:24.000Z,epcot
